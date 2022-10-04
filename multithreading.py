@@ -40,6 +40,7 @@ def print_square(num):
     print("Square: {}" .format(num * num))
     sleep(1)
     print ("done{2}..")
+    return "hai"
 
 def print_somthing(num):
     # function to print square of given num
